@@ -7,7 +7,7 @@ using namespace std;
 int main() {
     // Ask for customer name
     string customerName;
-    cout << "Welcome to S3 Keema Noodle Shop!" << endl;
+    cout << "Welcome to Keema Noodle Shop!" << endl;
     cout << "Please enter your name: ";
     getline(cin, customerName);
 
@@ -67,7 +67,7 @@ int main() {
             cout << "-------------------------" << endl;
             cout << "KEEMA NOODLE DRINKS" << endl;
             cout << "-------------------------" << endl;
-            cout << "1. Coke - Rs. 50" << endl;
+            cout << "1. Coke - Rs. 55" << endl;
             cout << "2. Sprite - Rs. 50" << endl;
             cout << "3. Fanta - Rs. 50" << endl;
             cout << "4. Pepsi - Rs. 50" << endl;
